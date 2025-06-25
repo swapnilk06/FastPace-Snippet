@@ -1,4 +1,4 @@
-Authentication and Authorization Bcrypt | JWT Token
+# Authentication and Authorization Bcrypt | JWT Token
 
 
 > [!NOTE]
